@@ -2,7 +2,7 @@
 A theme based off of iterm's "Sakura" theme. Also based off of Neovim's "Quiet" theme.  
 Made with [lush.nvim](https://github.com/rktjmp/lush.nvim).
 
-## Installation (not yet tested)
+## Installation
 Simply include "djaysky/nvim-sakura" to your plugin list.  
 For example, if you are using [vim-plug](https://github.com/junegunn/vim-plug) (vim script):
 ```nvim
