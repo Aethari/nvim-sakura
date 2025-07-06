@@ -9,7 +9,7 @@ For example, if you are using [vim-plug](https://github.com/junegunn/vim-plug) (
 call plug#begin()
     " your other plugins here
     Plug 'rktjmp/lush.nvim'
-    Plug 'djaysky/nvim-sakura'
+    Plug 'aethari/nvim-sakura'
 call plug#end()
 ```
 and then:
