@@ -27,6 +27,10 @@ color nvim-sakura
 to enable the theme.  
 This theme is Neovim only, and will **not** work on Vim.
 
+If you don't want to use a plugin manager and are on Linux,
+you can run the [install.sh](install.sh) script provided,
+and the theme will automatically be installed for you.
+
 ## Screenshots
 These screenshots are outdated, but I'm too lazy to make new
 ones, and they still capture the theme's general look very
